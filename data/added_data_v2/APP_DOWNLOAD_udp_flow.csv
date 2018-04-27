@@ -1,0 +1,1 @@
+avg(pkt_len),stddev(pkt_len),fb_ratio,inter_arrival_time,pkt_count,duration,pkt_len
